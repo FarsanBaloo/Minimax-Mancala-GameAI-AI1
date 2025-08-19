@@ -1,0 +1,42 @@
+000  Game 0
+
+002  Rickard_Sörlin 23 - 25 getA3Player
+
+000  Game 1
+
+002  getA3Player 8 - 40 Rickard_Sörlin
+
+000  Game 2
+
+002  Rickard_Sörlin 31 - 17 getA3Player
+
+000  Game 3
+
+002  getA3Player 12 - 36 Rickard_Sörlin
+
+000  Game 4
+
+002  Rickard_Sörlin 41 - 7 getA3Player
+
+000  Game 5
+
+002  getA3Player 10 - 38 Rickard_Sörlin
+
+000  Game 6
+
+002  Rickard_Sörlin 37 - 11 getA3Player
+
+000  Game 7
+
+002  getA3Player 19 - 29 Rickard_Sörlin
+
+000  Game 8
+
+002  Rickard_Sörlin 36 - 12 getA3Player
+
+000  Game 9
+
+002  getA3Player 19 - 29 Rickard_Sörlin
+
+Rickard_Sörlin won 9 games. getA3Player won 1 games. There were 0 draws.
+

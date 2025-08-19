@@ -1,0 +1,42 @@
+000  Game 0
+
+002  Rickard_Sörlin 30 - 18 getA5Player
+
+000  Game 1
+
+002  getA5Player 22 - 26 Rickard_Sörlin
+
+000  Game 2
+
+002  Rickard_Sörlin 30 - 18 getA5Player
+
+000  Game 3
+
+002  getA5Player 22 - 26 Rickard_Sörlin
+
+000  Game 4
+
+002  Rickard_Sörlin 30 - 18 getA5Player
+
+000  Game 5
+
+002  getA5Player 22 - 26 Rickard_Sörlin
+
+000  Game 6
+
+002  Rickard_Sörlin 30 - 18 getA5Player
+
+000  Game 7
+
+002  getA5Player 22 - 26 Rickard_Sörlin
+
+000  Game 8
+
+002  Rickard_Sörlin 30 - 18 getA5Player
+
+000  Game 9
+
+002  getA5Player 22 - 26 Rickard_Sörlin
+
+Rickard_Sörlin won 10 games. getA5Player won 0 games. There were 0 draws.
+

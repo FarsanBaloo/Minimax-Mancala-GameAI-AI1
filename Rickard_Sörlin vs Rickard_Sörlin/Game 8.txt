@@ -1,0 +1,62 @@
+001  Rickard_Sörlin moved 3 in 0.045999765396118164 sec.
+
+0     4 4 4 4 4 4
+
+      4 4 0 5 5 5    1
+
+001  Rickard_Sörlin moved 5 in 0.06199955940246582 sec.
+
+0     4 4 4 5 5 5
+
+      4 4 0 5 0 6    2
+
+001  Rickard_Sörlin moved 1 in 0.0469973087310791 sec.
+
+0     5 5 5 6 6 0
+
+      4 4 0 5 0 6    2
+
+001  Rickard_Sörlin moved 1 in 0.060003042221069336 sec.
+
+0     5 5 5 6 0 0
+
+      0 5 1 6 0 6    9
+
+001  Rickard_Sörlin moved 6 in 0.023999452590942383 sec.
+
+1     0 5 5 6 0 0
+
+      1 6 2 7 0 6    9
+
+001  Rickard_Sörlin moved 4 in 0.049989938735961914 sec.
+
+1     0 5 6 7 1 1
+
+      1 6 2 0 1 7    10
+
+001  Rickard_Sörlin moved 5 in 0.06000328063964844 sec.
+
+2     1 0 6 7 1 1
+
+      2 7 3 0 1 7    10
+
+001  Rickard_Sörlin moved 6 in 0.09499979019165039 sec.
+
+2     2 1 7 8 2 2
+
+      2 7 3 0 1 0    11
+
+001  Rickard_Sörlin moved 5 in 0.07800078392028809 sec.
+
+2     3 0 7 8 2 2
+
+      2 7 3 0 1 0    11
+
+001  Rickard_Sörlin moved 5 in 0.05899691581726074 sec.
+
+2     3 0 7 8 2 0
+
+      2 7 3 0 0 0    14
+
+404  Rickard_Sörlin performed an incorrect move (1)
+

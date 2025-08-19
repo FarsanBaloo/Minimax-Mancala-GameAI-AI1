@@ -1,0 +1,214 @@
+001  getA5Player moved 3 in 0.06499862670898438 sec.
+
+1     5 5 5 0 4 4
+
+      4 4 4 4 4 4    0
+
+001  getA5Player moved 4 in 0.06023669242858887 sec.
+
+2     6 6 0 0 4 4
+
+      5 5 4 4 4 4    0
+
+001  Rickard_Sörlin moved 3 in 0.06151247024536133 sec.
+
+2     6 6 0 0 4 4
+
+      5 5 0 5 5 5    1
+
+001  Rickard_Sörlin moved 2 in 0.060999155044555664 sec.
+
+2     6 6 0 0 4 4
+
+      5 0 1 6 6 6    2
+
+001  Rickard_Sörlin moved 1 in 0.02899932861328125 sec.
+
+2     6 6 0 0 4 4
+
+      0 1 2 7 7 7    2
+
+001  getA5Player moved 5 in 0.09099960327148438 sec.
+
+3     7 0 0 0 4 4
+
+      1 2 3 8 7 7    2
+
+001  Rickard_Sörlin moved 2 in 0.04501748085021973 sec.
+
+3     7 0 0 0 4 4
+
+      1 0 4 9 7 7    2
+
+001  getA5Player moved 6 in 0.09099984169006348 sec.
+
+4     0 0 0 0 4 4
+
+      2 1 5 10 8 8    2
+
+001  Rickard_Sörlin moved 3 in 0.04499983787536621 sec.
+
+4     0 0 0 0 4 5
+
+      2 1 0 11 9 9    3
+
+001  getA5Player moved 1 in 0.0469975471496582 sec.
+
+7     0 1 1 1 5 0
+
+      0 1 0 11 9 9    3
+
+001  Rickard_Sörlin moved 5 in 0.059999942779541016 sec.
+
+7     0 2 2 2 6 1
+
+      0 1 0 11 0 10    6
+
+001  getA5Player moved 5 in 0.02898716926574707 sec.
+
+8     1 0 2 2 6 1
+
+      0 1 0 11 0 10    6
+
+001  getA5Player moved 6 in 0.05999183654785156 sec.
+
+9     0 0 2 2 6 1
+
+      0 1 0 11 0 10    6
+
+001  getA5Player moved 4 in 0.030936241149902344 sec.
+
+10     0 1 0 2 6 1
+
+       0 1 0 11 0 10    6
+
+001  Rickard_Sörlin moved 2 in 0.06100320816040039 sec.
+
+10     0 1 0 2 6 1
+
+       0 0 0 11 0 10    7
+
+001  getA5Player moved 5 in 0.02100825309753418 sec.
+
+11     0 0 0 2 6 1
+
+       0 0 0 11 0 10    7
+
+001  Rickard_Sörlin moved 4 in 0.09119749069213867 sec.
+
+11     1 0 1 3 7 2
+
+       1 0 0 0 1 11    10
+
+001  getA5Player moved 6 in 0.07700085639953613 sec.
+
+12     0 0 1 3 7 2
+
+       1 0 0 0 1 11    10
+
+001  getA5Player moved 3 in 0.07477045059204102 sec.
+
+14     0 1 2 0 7 2
+
+       0 0 0 0 1 11    10
+
+001  Rickard_Sörlin moved 5 in 0.04400277137756348 sec.
+
+14     0 1 2 0 7 2
+
+       0 0 0 0 0 12    10
+
+001  getA5Player moved 2 in 0.06254076957702637 sec.
+
+15     1 2 3 1 0 2
+
+       1 1 0 0 0 12    10
+
+001  Rickard_Sörlin moved 2 in 0.07630395889282227 sec.
+
+15     1 2 0 1 0 2
+
+       1 0 0 0 0 12    14
+
+001  getA5Player moved 6 in 0.061208486557006836 sec.
+
+16     0 2 0 1 0 2
+
+       1 0 0 0 0 12    14
+
+001  getA5Player moved 5 in 0.02924823760986328 sec.
+
+17     1 0 0 1 0 2
+
+       1 0 0 0 0 12    14
+
+001  getA5Player moved 3 in 0.09114933013916016 sec.
+
+18     1 0 0 0 0 2
+
+       1 0 0 0 0 12    14
+
+001  Rickard_Sörlin moved 6 in 0.04646182060241699 sec.
+
+18     2 1 1 1 0 3
+
+       2 1 1 1 0 0    17
+
+001  getA5Player moved 6 in 0.06051206588745117 sec.
+
+19     0 1 1 1 0 3
+
+       3 1 1 1 0 0    17
+
+001  Rickard_Sörlin moved 1 in 0.09428167343139648 sec.
+
+19     0 1 1 1 0 3
+
+       0 2 2 2 0 0    17
+
+001  getA5Player moved 5 in 0.06252145767211914 sec.
+
+20     0 0 1 1 0 3
+
+       0 2 2 2 0 0    17
+
+001  Rickard_Sörlin moved 2 in 0.07773065567016602 sec.
+
+20     0 0 1 1 0 3
+
+       0 0 3 3 0 0    17
+
+001  getA5Player moved 4 in 0.06217646598815918 sec.
+
+21     0 0 0 1 0 3
+
+       0 0 3 3 0 0    17
+
+001  Rickard_Sörlin moved 4 in 0.06208944320678711 sec.
+
+21     0 0 0 1 0 3
+
+       0 0 3 0 1 1    18
+
+001  Rickard_Sörlin moved 6 in 0.028002023696899414 sec.
+
+21     0 0 0 1 0 3
+
+       0 0 3 0 1 0    19
+
+001  Rickard_Sörlin moved 3 in 0.06693863868713379 sec.
+
+21     0 0 0 1 0 0
+
+       0 0 0 1 2 0    23
+
+001  getA5Player moved 3 in 0.062003374099731445 sec.
+
+22     0 0 0 0 0 0
+
+       0 0 0 1 2 0    23
+
+000  The game ended correctly. Rickard_Sörlin: 26 getA5Player: 22
+
+000  Rickard_Sörlin win!
+

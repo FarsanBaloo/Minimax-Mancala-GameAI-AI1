@@ -1,0 +1,8 @@
+001  Rickard_Sörlin moved 3 in 0.03699994087219238 sec.
+
+1     5 5 5 0 4 4
+
+      4 4 4 4 4 4    0
+
+404  Rickard_Sörlin performed an incorrect move (3)
+

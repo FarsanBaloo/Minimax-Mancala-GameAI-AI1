@@ -1,0 +1,22 @@
+000  Game 0
+
+000  Game 1
+
+000  Game 2
+
+000  Game 3
+
+000  Game 4
+
+000  Game 5
+
+000  Game 6
+
+000  Game 7
+
+000  Game 8
+
+000  Game 9
+
+Rickard_Sörlin won 10 games. Rickard_Sörlin won 0 games. There were 0 draws.
+
